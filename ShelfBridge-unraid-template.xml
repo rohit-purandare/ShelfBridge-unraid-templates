@@ -4,7 +4,6 @@
   <Repository>ghcr.io/rohit-purandare/shelfbridge:latest</Repository>
   <Registry>https://github.com/rohit-purandare/ShelfBridge/pkgs/container/shelfbridge</Registry>
   <Network>bridge</Network>
-  <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support>https://github.com/rohit-purandare/ShelfBridge/discussions</Support>
