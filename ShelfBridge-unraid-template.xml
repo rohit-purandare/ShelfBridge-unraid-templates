@@ -11,8 +11,8 @@
   <Overview>Sync your audiobook reading progress from Audiobookshelf to Hardcover automatically.</Overview>
   <Category>Tools:Utilities</Category>
   <WebUI/>
-  <TemplateURL>https://raw.githubusercontent.com/rohit-purandare/ShelfBridge/main/ShelfBridge-unraid-template.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/rohit-purandare/ShelfBridge/main/icon.png</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/rohit-purandare/ShelfBridge-unraid-templates/master/ShelfBridge-unraid-template.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/rohit-purandare/ShelfBridge-unraid-templates/master/icon.png</Icon>
   <ExtraParams>--restart=no</ExtraParams>
   <PostArgs/>
   <Requires>Audiobookshelf server with API access and Hardcover account with API token</Requires>
